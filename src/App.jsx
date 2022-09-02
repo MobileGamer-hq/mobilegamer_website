@@ -7,18 +7,17 @@ import Navigation from './component/Navigation/Navigation'
 import Projects from './component/Projects/Projects'
 
 
-
 const App = () => {
-  return (
-    <>
-      <Home/>
-      <Navigation/>
-      <About/>
-      <Experience/>
-      <Projects/>
-      <Footer/>
-    </>
-  )
+    return (
+        <>
+            <Home/>
+            <Navigation/>
+            <About/>
+            <Experience/>
+            <Projects/>
+            <Footer/>
+        </>
+    )
 }
 
 export default App
