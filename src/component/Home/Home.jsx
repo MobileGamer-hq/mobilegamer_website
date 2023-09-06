@@ -29,7 +29,7 @@ const Home = () => {
       <header>
         <div className= "container header__container">
           <h5>Hello I'm</h5>
-          <h1>Somto Duru</h1>
+          <h1>Duru Somtochukwu Philip</h1>
           <h5 className= "text-light">Software Developer</h5>
 
           <Connect/>

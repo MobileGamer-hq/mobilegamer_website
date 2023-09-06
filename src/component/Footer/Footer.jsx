@@ -18,7 +18,9 @@ const Footer = () => {
             <div className="footer__socials">
                 <a href="https://www.instagram.com/somto2007/"><BsInstagram/></a>
                 <a href="https://twitter.com/SomtochukwuDuru"><BsTwitter/></a>
+                <a href="https://www.linkedin.com/in/somtochukwu-duru-919362253/"><BsLinkedin/></a>
                 <a href="https://www.youtube.com/channel/UCvSMyEi2iMOkz10ae9kaY7Q"><BsYoutube/></a>
+                
             </div>
         </footer>
     )
